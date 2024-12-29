@@ -1,6 +1,5 @@
 datastore/
 user_data/
-tests/
 *.whl
 *.pyc
 .venv/
