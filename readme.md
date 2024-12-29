@@ -1,4 +1,4 @@
-# 🚀 Modern Hybrid Data Pipeline Architecture for Business Analytics
+# 🚀 Modern Hybrid Data Pipeline Architecture with Fabric Analytics
 
 ## **🔥 Introduction**
 
