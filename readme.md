@@ -1,4 +1,4 @@
-# 🚀 Modern Hybrid Data Pipeline Architecture with Fabric Analytics
+# 🚀 Building Modern Data Engineering Architecture with Fabric Analytics
 
 ## **🔥 Introduction**
 
