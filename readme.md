@@ -145,7 +145,3 @@ This project is licensed under the **[MIT License](LICENSE)**.
 - Thanks to **Microsoft Azure and Fabric Teams** for powering this hybrid architecture.
 - Gratitude to the **Power BI Team** for enabling next-level business intelligence.
 
----
-
-This is the **ultimate solution** for those who want to dominate data analytics with **modern, scalable, and hybrid pipelines**. Fork it, clone it, and make it yours! 💪
-
