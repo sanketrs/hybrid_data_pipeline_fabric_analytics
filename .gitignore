@@ -1,0 +1,12 @@
+datastore/
+user_data/
+tests/
+*.whl
+*.pyc
+.venv/
+.vscode/
+__pycache__/
+src/pipeline_scripts/__pycache__
+src/triggers/__pycache__
+src/utils/__pycache__
+*.env
